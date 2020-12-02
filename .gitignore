@@ -1,0 +1,9 @@
+# Editor settings
+.vscode/
+
+# Matlab
+*.asv
+
+# Data files
+*.tif
+*.tiff
